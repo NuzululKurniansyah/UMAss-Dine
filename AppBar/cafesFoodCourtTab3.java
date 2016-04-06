@@ -6,9 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by alesiarazumova on 11/14/15.
- */
+
 public class cafesFoodCourtTab3 extends Fragment {
 
     @Override
