@@ -19,9 +19,7 @@ import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.TextView;
 
-/**
- * Created by alesiarazumova on 11/25/15.
- */
+
 public class goToWhatsOpenNow extends AppCompatActivity {
     private Toolbar mToolbar;
 
